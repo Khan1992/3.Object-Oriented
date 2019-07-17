@@ -5,6 +5,18 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 类", "01 类\01 类.csproj", "{12AFFF9D-084B-468E-98A0-67C9A9BF1232}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 类的属性控制", "02 类的属性控制\02 类的属性控制.csproj", "{567D399D-FAE6-4A79-80C4-0BC7E7FC719B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 构造函数", "03 构造函数\03 构造函数.csproj", "{B9E1CA6B-7346-43D1-B43D-8CE27A1BEFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 静态构造参数", "04 静态构造参数\04 静态构造参数.csproj", "{25B43700-A20D-468E-B4AE-A6820550970B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 析构函数", "05 析构函数\05 析构函数.csproj", "{A308E08F-9AA2-4DF7-82CD-6824DDA39039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 不同类型参数方法的使用", "06 不同类型参数方法的使用\06 不同类型参数方法的使用.csproj", "{002AEC48-922B-4A25-9762-139D1C760057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 方法的重载", "07 方法的重载\07 方法的重载.csproj", "{459BBF1E-473D-40C6-A810-D75255500C47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +27,30 @@ Global
 		{12AFFF9D-084B-468E-98A0-67C9A9BF1232}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12AFFF9D-084B-468E-98A0-67C9A9BF1232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12AFFF9D-084B-468E-98A0-67C9A9BF1232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{567D399D-FAE6-4A79-80C4-0BC7E7FC719B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567D399D-FAE6-4A79-80C4-0BC7E7FC719B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567D399D-FAE6-4A79-80C4-0BC7E7FC719B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567D399D-FAE6-4A79-80C4-0BC7E7FC719B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E1CA6B-7346-43D1-B43D-8CE27A1BEFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E1CA6B-7346-43D1-B43D-8CE27A1BEFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E1CA6B-7346-43D1-B43D-8CE27A1BEFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E1CA6B-7346-43D1-B43D-8CE27A1BEFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B43700-A20D-468E-B4AE-A6820550970B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B43700-A20D-468E-B4AE-A6820550970B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B43700-A20D-468E-B4AE-A6820550970B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B43700-A20D-468E-B4AE-A6820550970B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A308E08F-9AA2-4DF7-82CD-6824DDA39039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A308E08F-9AA2-4DF7-82CD-6824DDA39039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A308E08F-9AA2-4DF7-82CD-6824DDA39039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A308E08F-9AA2-4DF7-82CD-6824DDA39039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002AEC48-922B-4A25-9762-139D1C760057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002AEC48-922B-4A25-9762-139D1C760057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002AEC48-922B-4A25-9762-139D1C760057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002AEC48-922B-4A25-9762-139D1C760057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{459BBF1E-473D-40C6-A810-D75255500C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459BBF1E-473D-40C6-A810-D75255500C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459BBF1E-473D-40C6-A810-D75255500C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459BBF1E-473D-40C6-A810-D75255500C47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
